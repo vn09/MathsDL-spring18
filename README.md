@@ -45,7 +45,19 @@ Besides the lectures, we will also run a parallel curricula (optional), which, s
 
 ## Pre-requisites
 
-Multivariate Calculus, Linear Algebra, Probability and Statistics at solid undergraduate level.
+* Linear Algebra
+    * [The Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    * [Linear Algebra MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+* Multivariate Calculus
+    * [Multivariate Calculus MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+
+* Probability and Statistics
+    * [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability)
+    * [Basic Statistics](https://www.coursera.org/learn/basic-statistics/)
+
+* Differential Geometry
+    * [Differential Geometry MIT OCW](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/index.htm)
 
 Notions of Harmonic Analysis, Differential Geometry and Stochastic Calculus are nice-to-have, but not essential.
 
